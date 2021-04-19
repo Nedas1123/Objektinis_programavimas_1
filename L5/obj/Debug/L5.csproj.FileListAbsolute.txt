@@ -1,0 +1,14 @@
+C:\Users\vvini\Desktop\L5\L5\bin\Debug\L5.exe.config
+C:\Users\vvini\Desktop\L5\L5\bin\Debug\L5.exe
+C:\Users\vvini\Desktop\L5\L5\bin\Debug\L5.pdb
+C:\Users\vvini\Desktop\L5\L5\obj\Debug\L5.csprojAssemblyReference.cache
+C:\Users\vvini\Desktop\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Users\vvini\Desktop\L5\L5\obj\Debug\L5.exe
+C:\Users\vvini\Desktop\L5\L5\obj\Debug\L5.pdb
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\bin\Debug\L5.exe.config
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\bin\Debug\L5.exe
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\bin\Debug\L5.pdb
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\obj\Debug\L5.csprojAssemblyReference.cache
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\obj\Debug\L5.exe
+C:\Users\Ned\Desktop\Mokslas\1 Pusmetis\OP\Op1L5\L5\L5\obj\Debug\L5.pdb

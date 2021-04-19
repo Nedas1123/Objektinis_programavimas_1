@@ -1,0 +1,9 @@
+List of all places
+|Name                |Adress              |Old |Type        |Author      |Whom        |Week days|Has guide|Price|
+-----------------------------------------------------------------------------------------------------------------------------
+|Gedimino bokstas    |boksto g. 71        |2017|istorijos   |            |            |True     |True     |12   |
+|Kudirkos paminklas  |lauko g. 12         |2018|            |Laurynas    |Kudirkai    |         |         |     |
+|Valdovu rumai       |lietuvos g. 41      |1874|istorijos   |            |            |True     |True     |18   |
+|Kauno fortas        |forto g. 71         |2018|istorijos   |            |            |False    |False    |15   |
+|Mazvydas            |miesto g. 12        |1848|            |Matas       |Mazvydui    |         |         |     |
+|Mickevicius         |tvoros g. 16        |2018|            |Algis       |Mickeviciui |         |         |     |

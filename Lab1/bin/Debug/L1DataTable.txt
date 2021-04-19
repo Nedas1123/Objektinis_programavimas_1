@@ -1,0 +1,15 @@
+The list of players: 
+-----------------------------------------------------------------------------------------------
+| Name         | Surname         | Team         | Position   | Champion     | Kills  | Assist |
+-----------------------------------------------------------------------------------------------
+| Laurynas     | Laurynauskas    | Mediniai     | Adc        | Braum        | 10     | 1      |
+| Dovydas      | Dovydauskas     | Akmeniniai   | Jungler    | Ahri         | 1      | 2      |
+| Mailas       | Mailauskas      | Mediniai     | Top        | Azir         | 5      | 4      |
+| Tadas        | Tadauskas       | Akmeniniai   | Top        | Brand        | 6      | 1      |
+| Valdas       | Valdauskas      | Mediniai     | Mid        | Bard         | 7      | 5      |
+| Tomas        | Tomauskas       | Akmeniniai   | Top        | Braum        | 7      | 2      |
+| Povilas      | Povilauskas     | Mediniai     | Jungler    | Annie        | 7      | 4      |
+| Deimantas    | Deimantauskas   | Akmeniniai   | Mid        | Anivia       | 9      | 4      |
+| Domantas     | Domantauskas    | Akmeniniai   | Adc        | Akali        | 5      | 9      |
+| Benas        | Benauskas       | Mediniai     | Top        | Ahri         | 1      | 6      |
+-----------------------------------------------------------------------------------------------

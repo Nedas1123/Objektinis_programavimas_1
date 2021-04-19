@@ -1,0 +1,20 @@
+Atstovybe: Informatikai
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Tema           |Sudetingumas|Autorius       |Tekstas                            |Variantai                               |Atsakymas |Balai|Failo Pavadinimas   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Fizika          2            Antanas         Ar fizikoje reikia skaiciuoti?                                               Taip       8  
+ Fizika          2            Petras          Ar fizikoje yra chemijos?                                                    Taip       9  
+ Matematika      8            Antanas         Ar galima lygybe 2*2?                                                        Taip       7  
+ Biologija       10           Petras          Kiek akiu turi �mogus?              a) 1 b) 2 c) 3 d) 4                      b)         7           
+ Informatika     10           Petras          Ar jums patinka informatika?        a) Taip b) Ne c) Ne�inau d) Gal but      a)         8           
+ istorinis       8            Antanas         Ar chemija susijusi su fizika?      a) Taip b) Ne c) Ne�inau d) Gal but      a)         9           
+ istorinis       7            Jonas           Kokia daina?                                                                 Egle       8     Muzika              
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Atstovybe: Ekonomikai
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Tema           |Sudetingumas|Autorius       |Tekstas                            |Variantai                               |Atsakymas |Balai|Failo Pavadinimas   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Fizika          2            Antanas         Ar fizikoje reikia skaiciuoti?                                               Taip       8  
+ Fizika          2            Petras          Ar fizikoje yra chemijos?                                                    Taip       9  
+ Informatika     10           Petras          Ar jums patinka informatika?        a) Taip b) Ne c) Ne�inau d) Gal but      a)         8           
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
